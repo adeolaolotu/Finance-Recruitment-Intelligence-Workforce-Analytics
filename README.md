@@ -46,3 +46,31 @@ I designed and implemented a clean **Star Schema** from a single flat table for 
   - `Dim_Date` (Calendar Table)
   - `Skills DIM` (for skill analysis)
 ![Data Modelling](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/e98a8ea614b9c9bd56fea22039665b5d4bc9ae92/Star%20Schema.png)
+
+## Key DAX Measures
+
+I created a dedicated `_Measures` table to organize all calculations:
+
+```dax
+// Basic Count Measures
+Total Jobs = COUNT('Job details DIM'[Job ID])
+
+// Time Intelligence
+Total Jobs LY = 
+    CALCULATE(
+        [Total Jobs], 
+        SAMEPERIODLASTYEAR('Calendar'[Date])
+    )
+
+// Year-over-Year Growth with Conditional Formatting
+Total Jobs YOY = 
+    VAR _CY = [Total Jobs]
+    VAR _PV = [Total Jobs LY]
+    VAR Per = DIVIDE(_CY - _PV, _CY)
+    VAR _Format = SWITCH(
+        TRUE(), 
+        Per > 0, UNICHAR(11165) & " " & FORMAT(Per, "0.0%"),   // Up arrow
+        Per < 0, UNICHAR(11167) & " " & FORMAT(Per, "0.0%"),   // Down arrow
+        "No Change"
+    )
+    RETURN _Format
