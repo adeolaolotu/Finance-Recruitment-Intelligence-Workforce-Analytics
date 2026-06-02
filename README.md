@@ -132,6 +132,6 @@ Total Jobs YOY =
 3. Refresh data if needed
 
 ## References
-[Finance Recruitment Intelligence Workforce Analytics Dataset](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/de43a87e0a833fa6aed6ecd0de8d89f5acf5c352/Finance%20Recruitment%20Intelligence%20%26%20Workforce%20Analytics%20Dataset%20.%20Week%202%20Challenge.xlsx)
+- [Finance Recruitment Intelligence Workforce Analytics Dataset](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/de43a87e0a833fa6aed6ecd0de8d89f5acf5c352/Finance%20Recruitment%20Intelligence%20%26%20Workforce%20Analytics%20Dataset%20.%20Week%202%20Challenge.xlsx)
 
-[PowerBI File](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/f9bb02d323ea8444573ba25f3c69ffd2a7ea09eb/Finance%20Recruitment%20Intelligence%20Analysis.pbix)
+- [PowerBI File](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/f9bb02d323ea8444573ba25f3c69ffd2a7ea09eb/Finance%20Recruitment%20Intelligence%20Analysis.pbix)
