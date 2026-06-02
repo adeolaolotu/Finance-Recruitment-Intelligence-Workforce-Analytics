@@ -78,3 +78,11 @@ Total Jobs YOY =
         "No Change"
     )
     RETURN _Format
+
+### Other Key Measures Include:
+- Average Salary Midpoint
+- Hiring Success Rate
+- Avg Time to Hire
+- Applicants per Job
+- Remote Job Ratio
+- Skill Frequency / Total Unique Skills
