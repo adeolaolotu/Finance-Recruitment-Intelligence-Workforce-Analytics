@@ -55,6 +55,10 @@ I created a dedicated `_Measures` table to organize all calculations:
 // Basic Count Measures
 Total Jobs = COUNT('Job details DIM'[Job ID])
 
+Salary Range = [Average Max Salary]-[Average Min Salary]
+
+% Jobs requiring certification = DIVIDE([Jobs requiring Certification],[Total Jobs],0) 
+
 // Time Intelligence
 Total Jobs LY = 
     CALCULATE(
