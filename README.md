@@ -111,25 +111,12 @@ Total Jobs YOY =
   ![Recruitment Performance and Efficiency](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/faf95d48f1b657591da28bf861c3af58fb2100ae/Recruitment%20Performance%20and%20Efficiency.png)
 
   ## Key Insights
-The analysis of over 2,000 finance job postings revealed several important trends:
-
-### High-Demand Roles: 
-Data Analyst, Credit Analyst, and Internal Auditor are the most frequently posted positions, indicating strong market demand in these areas.
-
-### Tool Dominance: 
-SQL, SAP, Power BI, Tableau, and Excel are the top requested finance tools, highlighting the importance of technical proficiency in modern finance roles.
-
-### Salary Trends: 
-Average salary midpoint stands at $77K, with a clear decline as experience level decreases. Executive and Senior roles command significantly higher compensation.
-
-### Recruitment Efficiency: 
-Average Time to Hire is 32.89 days, with notable variation across departments and recruiters.
-
-### Hiring Success Rate: 
-Only 5.26% of applicants are successfully hired, suggesting a highly competitive talent market.
-
-### Work Preferences: 
-Hybrid and Remote roles attract substantial applicant interest, though Full-Time Onsite positions still dominate job postings.
+- Data Analyst, Credit Analyst, and Internal Auditor are the most frequently posted positions, indicating strong market demand in these areas.
+- SQL, SAP, Power BI, Tableau, and Excel are the top requested finance tools, highlighting the importance of technical proficiency in modern finance roles.
+- Average salary midpoint stands at $77K, with a clear decline as experience level decreases. Executive and Senior roles command significantly higher compensation.
+- Average Time to Hire is 32.89 days, with notable variation across departments and recruiters.
+- Only 5.26% of applicants are successfully hired, suggesting a highly competitive talent market.
+- Hybrid and Remote roles attract substantial applicant interest, though Full-Time Onsite positions still dominate job postings.
 
 ## Recommendations
 - Focus recruitment efforts on Data Analysts, Credit Analysts, and Internal Auditors to meet current market demand.
@@ -138,3 +125,13 @@ Hybrid and Remote roles attract substantial applicant interest, though Full-Time
 - Implement recruiter performance dashboards and standardized processes to reduce the average Time to Hire below 30 days.
 - Use salary benchmarking by experience level and revenue size to attract top talent, particularly for Senior and Executive roles.
 - Prioritize candidates with relevant certifications (CFA, CPA, ICAN, ACCA) as over 81% of roles require them.
+
+## How To Use
+1. Download the .pbix file
+2. Open in Power BI Desktop
+3. Refresh data if needed
+
+## References
+[Finance Recruitment Intelligence Workforce Analytics Dataset](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/de43a87e0a833fa6aed6ecd0de8d89f5acf5c352/Finance%20Recruitment%20Intelligence%20%26%20Workforce%20Analytics%20Dataset%20.%20Week%202%20Challenge.xlsx)
+
+[PowerBI File](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/f9bb02d323ea8444573ba25f3c69ffd2a7ea09eb/Finance%20Recruitment%20Intelligence%20Analysis.pbix)
