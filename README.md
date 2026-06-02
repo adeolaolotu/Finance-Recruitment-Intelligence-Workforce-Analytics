@@ -94,18 +94,18 @@ Total Jobs YOY =
 - Top Finance Roles, Work Mode & Employment Type Breakdown
 - Geographic Distribution (Map) & Department-wise Hiring Trends
 
-  ![Finance Job Market Overview]()
+  ![Finance Job Market Overview](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/faf95d48f1b657591da28bf861c3af58fb2100ae/Finance%20Job%20Market%20Overview.png)
 
 ### 2. Skill and Salary Analysis
 - Salary Trends by Experience Level & Job Title
 - Most Requested Skills & Finance Tools Demand Analysis
 - Education & Certification Requirements
 
- ![Skill and Salary Analysis]()
+ ![Skill and Salary Analysis](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/faf95d48f1b657591da28bf861c3af58fb2100ae/Skill%20and%20Salary%20Analysis.png)
 
 ### 3. Recruitment Performance and Efficiency
 - Average Time to Hire, Hiring Success Rate, Recruiter Performance
 - Time to Hire by Department
 - Hiring Status & Company Size Analysis
 
-  ![Recruitment Performance and Efficiency]()
+  ![Recruitment Performance and Efficiency](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/faf95d48f1b657591da28bf861c3af58fb2100ae/Recruitment%20Performance%20and%20Efficiency.png)
