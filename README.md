@@ -45,4 +45,4 @@ I designed and implemented a clean **Star Schema** from a single flat table for 
   - `Dim_Recruiter`
   - `Dim_Date` (Calendar Table)
   - `Skills DIM` (for skill analysis)
-
+![Data Modelling](https://github.com/adeolaolotu/Finance-Recruitment-Intelligence-Workforce-Analytics/blob/e98a8ea614b9c9bd56fea22039665b5d4bc9ae92/Star%20Schema.png)
