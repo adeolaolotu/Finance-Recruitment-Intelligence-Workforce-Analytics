@@ -78,7 +78,7 @@ Total Jobs YOY =
         "No Change"
     )
     RETURN _Format
-
+---
 ### Other Key Measures Include:
 - Average Salary Midpoint
 - Hiring Success Rate
