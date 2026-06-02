@@ -78,7 +78,7 @@ Total Jobs YOY =
         "No Change"
     )
     RETURN _Format
----
+```
 ### Other Key Measures Include:
 - Average Salary Midpoint
 - Hiring Success Rate
@@ -86,3 +86,26 @@ Total Jobs YOY =
 - Applicants per Job
 - Remote Job Ratio
 - Skill Frequency / Total Unique Skills
+
+## Dashboards
+
+### 1. Finance Job Market Overview
+- KPIs: Total Jobs, Applicants, Hiring Companies, Open vs Closed Ratio, Average Experience
+- Top Finance Roles, Work Mode & Employment Type Breakdown
+- Geographic Distribution (Map) & Department-wise Hiring Trends
+
+  ![Finance Job Market Overview]()
+
+### 2. Skill and Salary Analysis
+- Salary Trends by Experience Level & Job Title
+- Most Requested Skills & Finance Tools Demand Analysis
+- Education & Certification Requirements
+
+ ![Skill and Salary Analysis]()
+
+### 3. Recruitment Performance and Efficiency
+- Average Time to Hire, Hiring Success Rate, Recruiter Performance
+- Time to Hire by Department
+- Hiring Status & Company Size Analysis
+
+  ![Recruitment Performance and Efficiency]()
